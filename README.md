@@ -5,4 +5,4 @@
 this will be *really* cool 
 
 1. first we will make a new repository 
-2. I am going to add some more information to this README file
+2. I am going to add some better information to this README file
